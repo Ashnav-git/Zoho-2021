@@ -6,7 +6,7 @@ public class test {
 	public static void printpattern(String s,int n)
 	{
 		char a[]=s.toCharArray();
-		int midIndex = n/2;
+		int midIndex = n/2; 
 	    for(int i=0;i<n;i++)
 		{
 	       int loop=i;
